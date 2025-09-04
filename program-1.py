@@ -26,3 +26,4 @@ operation = input("Enter operation (add, subtract, multiply, divide): ")
 calc = Calculator(a, b, operation)
 result = calc.calculate()
 print("Result:", result)
+
